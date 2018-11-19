@@ -1,7 +1,9 @@
-# Discord: Lexion#9346
-
-How to install:
+# **How to install:**
 
 - Download
 - Extract the .zip file
 - Run installer
+
+**Version:** Pre-Alpha 20181119
+
+**Discord:** Lexion#9346
